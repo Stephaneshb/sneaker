@@ -21,3 +21,5 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+sneakers/resources/views/wishlist/
+sneakers/resources/views/sneakers/
